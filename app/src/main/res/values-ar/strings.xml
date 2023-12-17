@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notepad إلياس</string>
+    <string name="addButton">اضف</string>
+    <string name="hintTitre">عنوان الملاحظة</string>
+    <string name="hintNote">اكتب ملاحظاتك</string>
+    <string name="annulerButton">الغاء</string>
+    <string name="EnregistrerButton">حفظ</string>
+    <string name="messageToast">أنت لم تكتب!</string>
+    <string name="Note">ملاحظة</string>
+    <string name="alertMessage">هل تريد حفظ النسخة القديمة ؟</string>
+    <string name="alerttitle">حفظ النسخة القديمة</string>
+    <string name="alersOui">نعم</string>
+    <string name="alersNon">لا</string>
+</resources>

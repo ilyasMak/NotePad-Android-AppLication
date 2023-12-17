@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notepad By ILYAS</string>
+    <string name="addButton">Add</string>
+    <string name="hintTitre">Note title</string>
+    <string name="hintNote">Type your note</string>
+    <string name="annulerButton">Cancel</string>
+    <string name="EnregistrerButton">Save</string>
+    <string name="messageToast">You didn\'t write!</string>
+    <string name="Note">Note</string>
+    <string name="alertMessage">You want to save the old version?</string>
+    <string name="alerttitle">Save the old version</string>
+    <string name="alersOui">Yes</string>
+    <string name="alersNon">No</string>
+</resources>

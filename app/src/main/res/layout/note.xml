@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:padding="9sp"
+
+        >
+
+        <LinearLayout
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="3"
+            >
+
+            <TextView
+                android:id="@+id/TVtitre"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="25sp"
+                android:textColor="@color/white"
+                android:text="Titre de note" />
+
+            <TextView
+                android:id="@+id/TVnote"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="contenu de note" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/Bedit"
+            android:layout_width="37sp"
+            android:layout_height="37sp"
+
+            android:paddingStart="6sp"
+            android:background="@drawable/editbutton"
+            android:drawableStart="@drawable/iconnot"
+
+            android:textColor="@color/black"
+            android:text=""
+            />
+
+        <Button
+            android:id="@+id/Bsupprimer"
+            android:layout_width="37sp"
+            android:layout_height="37sp"
+
+            android:paddingStart="7sp"
+            android:background="@drawable/deletebutton"
+            android:drawableStart="@drawable/taro"
+
+            android:textColor="@color/black"
+            android:text="" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

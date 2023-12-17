@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notepad par ILYAS</string>
+    <string name="addButton">Ajouter</string>
+    <string name="hintTitre">Titre de note</string>
+    <string name="hintNote">Tapez votre note</string>
+    <string name="annulerButton">Annuler</string>
+    <string name="EnregistrerButton">Enregistrer</string>
+    <string name="messageToast">vous n\'avez pas écrire !</string>
+    <string name="Note">Note</string>
+    <string name="alertMessage">Vous voulez enregistrer la version ancienne ?</string>
+    <string name="alerttitle">Enregistrer la version ancienne</string>
+    <string name="alersOui">Oui</string>
+    <string name="alersNon">Non</string>
+</resources>
